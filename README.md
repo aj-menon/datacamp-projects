@@ -1,2 +1,1 @@
-# datacamp-projects
-Projects from DataCamp - Python path
+ # Projects from DataCamp - Python path
